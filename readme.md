@@ -4,7 +4,14 @@
 
 <br/>
 <br/>
+
+
+  
+<img  src="https://github.com/user-attachments/assets/0465e065-a5a2-4ac6-8c9c-d8ebb1254270" style="width:300px;" />
+
+
 <br/>
+
 
 #### 资料来源于网络, 仅供参考
 > [关于养号的常见问题](
