@@ -1,9 +1,13 @@
 #### 最新实现 857五端设备可选、859Ipad协议
-> 最新padplus、可完美平替padlocal 及其他puppet服务，不限登录数量，私有化部署
+> 最新padplus、可完美平替padlocal 及其他puppet服务，
+> 使用方式:
+>  > 1、token <div/>
+>  > 2、私有化部署,不限登录数量
+<br/>
 > 联系邮箱 alwaysbefriday@outlook.com
 
 <br/>
-<br/>
+
 
 
   
