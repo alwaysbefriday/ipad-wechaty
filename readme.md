@@ -7,7 +7,8 @@
 
 ##### 联系方式
 > 邮箱 alwaysbefriday@outlook.com <div/>
-> [tg群组](https://t.me/+94YmUGmiYlZjZDRh)
+> [tg](https://github.com/user-attachments/assets/77cd0e7c-4b46-4063-b19f-f13d88540ee9)
+
 
 
 <br/>
