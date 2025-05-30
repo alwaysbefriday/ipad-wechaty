@@ -1,17 +1,20 @@
 #### 最新实现 857五端设备可选、859Ipad协议
 > 最新padplus、可完美平替padlocal 及其他puppet服务，
-> 使用方式:
->  > 1、token <div/>
->  > 2、私有化部署,不限登录数量
+##### 使用方式:
+> 1、token <div/>
+> 2、私有化部署,不限登录数量
 <br/>
-> 联系邮箱 alwaysbefriday@outlook.com
+
+##### 联系方式
+> 邮箱 alwaysbefriday@outlook.com <div/>
+> [tg群组](https://t.me/+94YmUGmiYlZjZDRh)
+
 
 <br/>
 
 
 
   
-[tg群组](https://t.me/+94YmUGmiYlZjZDRh)
 
 
 <br/>
