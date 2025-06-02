@@ -1,27 +1,42 @@
-#### 最新实现 857五端设备可选、859Ipad协议
-> 最新padplus、可完美平替padlocal 及其他puppet服务，
-##### 使用方式:
-> 1、token <div/>
-> 2、私有化部署,不限登录数量
-<br/>
+# Stable Wechaty Implementation (Updated 2025)
+Key Advantages:
 
-##### 联系方式
-> 邮箱 alwaysbefriday@outlook.com <div/>
-> [tg](https://github.com/user-attachments/assets/77cd0e7c-4b46-4063-b19f-f13d88540ee9)
+- ✅ Multi-protocol Support: 857/859 iPad protocols with auto version switching
+
+- ✅ Zero-migration: Direct replacement for padplus/padlocal
+
+- ✅ Production Ready:
+
+  - Full compatibility with latest WeChat clients (v857、v859)
+
+  - Private deployment with dedicated IP + risk isolation
+
+  - PM2 clustering + crash recovery + real-time log monitoring
+
+- ✅ Enterprise Features:
+
+  - Token issuance management
+
+  - Connection diagnostics
+
+  - Account protection guidelines
 
 
 
-<br/>
+# Replace existing puppet dependency
 
+```ts
+const { WechatyBuilder } = require('wechaty')
+const { PuppetPlus } = require("wechaty-puppet-padplus")
 
+// Ready-to-use configuration
+const puppet = new PuppetPlus({
+  token: "puppet_padplus_3344", // Self-issued secure token
+})
 
-  
+const bot = WechatyBuilder.build({ puppet })
+```
 
-
-<br/>
-
-
-#### 资料来源于网络, 仅供参考
-> [关于养号的常见问题](
-https://h9yd9y21il.feishu.cn/docx/EIAydzvlMoJdQCxN6dbcI3fDnff)
+> 📘 **Complete Document**: [Deployment Guide](https://github.com/ddfriday/ddfriday/issues/1)
+> Environment Configuration Instructions | API Method Documentation | Business Processing Recommendations | Risk Avoidance Practices
 
