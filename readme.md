@@ -1,4 +1,4 @@
-# Stable Wechaty Implementation (Updated 2025)
+### Stable Wechaty Implementation (Updated 2025)
 Key Advantages:
 
 - ✅ Multi-protocol Support: 857/859 iPad protocols with auto version switching
@@ -13,7 +13,7 @@ Key Advantages:
 
   - PM2 clustering + crash recovery + real-time log monitoring
 
-- ✅ Enterprise Features:
+- ✅ Professional Features:
 
   - Token issuance management
 
@@ -23,7 +23,7 @@ Key Advantages:
 
 
 
-# Replace existing puppet dependency
+### Replace existing puppet dependency
 
 ```ts
 const { WechatyBuilder } = require('wechaty')
@@ -37,6 +37,6 @@ const puppet = new PuppetPlus({
 const bot = WechatyBuilder.build({ puppet })
 ```
 
-> 📘 **Complete Document**: [Deployment Guide](https://github.com/ddfriday/ddfriday/issues/1)
-> Environment Configuration Instructions | API Method Documentation | Business Processing Recommendations | Risk Avoidance Practices
+## 📘 **Complete Document**: [Deployment Guide](https://github.com/ddfriday/ddfriday/issues/1) 
+  Environment Configuration Instructions | API Method Documentation | Business Processing Recommendations | Risk Avoidance Practices
 
