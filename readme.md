@@ -37,6 +37,6 @@ const puppet = new PuppetPlus({
 const bot = WechatyBuilder.build({ puppet })
 ```
 
-## 📘 **Complete Document**: [Deployment Guide](https://github.com/ddfriday/ddfriday/issues/1) 
+## 💻 **How to deploy**: [Deployment](https://github.com/ddfriday/ddfriday/issues/1) 
   Environment Configuration Instructions | API Method Documentation | Business Processing Recommendations | Risk Avoidance Practices
 
